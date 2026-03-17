@@ -1,0 +1,19 @@
+<svg width="1400" height="1400" viewBox="0 0 1400 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="1400" rx="300" fill="#F4F1EA"/>
+  <circle cx="700" cy="700" r="520" fill="#FBF9F5"/>
+  <circle cx="700" cy="700" r="518" stroke="#C9B08A" stroke-width="4"/>
+  <path d="M700 268C821 268 920 366 920 487C920 573 879 649 820 734L739 851C724 872 712 892 706 915C704 923 696 923 694 915C688 892 676 872 661 851L580 734C521 649 480 573 480 487C480 366 579 268 700 268Z" fill="url(#paint0_linear_1_2)"/>
+  <path d="M700 338C783 338 850 405 850 488C850 548 822 600 779 663L726 741C714 760 706 778 700 801C694 778 686 760 674 741L621 663C578 600 550 548 550 488C550 405 617 338 700 338Z" fill="#FBF9F5"/>
+  <path d="M700 418C658 418 628 447 628 489C628 522 647 548 673 580C693 604 700 621 700 650C700 621 707 604 727 580C753 548 772 522 772 489C772 447 742 418 700 418Z" fill="#195B59"/>
+  <path d="M658 679C654 639 666 610 700 580C734 610 746 639 742 679C739 711 724 744 700 779C676 744 661 711 658 679Z" fill="#195B59"/>
+  <path d="M700 267V185" stroke="#C9B08A" stroke-width="18" stroke-linecap="round"/>
+  <path d="M645 238L700 185L755 238" stroke="#C9B08A" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="700" y="1126" text-anchor="middle" fill="#174947" font-family="Georgia, 'Times New Roman', serif" font-size="124" letter-spacing="4">ERIDENTAL</text>
+  <text x="700" y="1224" text-anchor="middle" fill="#A4814E" font-family="Arial, Helvetica, sans-serif" font-size="46" letter-spacing="9">DR. SZEKERES ERIKA</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="700" y1="268" x2="700" y2="915" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#216765"/>
+      <stop offset="1" stop-color="#134A49"/>
+    </linearGradient>
+  </defs>
+</svg>
